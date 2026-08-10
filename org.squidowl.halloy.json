@@ -12,6 +12,7 @@
         "--share=ipc",
         "--share=network",
         "--socket=pulseaudio",
+        "--socket=wayland",
         "--socket=x11",
         "--talk-name=org.freedesktop.Notifications"
     ],
